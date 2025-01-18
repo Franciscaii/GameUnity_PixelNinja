@@ -69,5 +69,5 @@
 ## 📷 Vista Previa
 🖼️ Captura de pantalla del juego:  
 ![Vista previa](https://github.com/Franciscaii/GameUnity_PixelNinja/blob/main/Captura%20de%20pantalla%202025-01-18%20154633.png)
-```
+
 
