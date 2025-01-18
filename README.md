@@ -1,4 +1,3 @@
-```markdown
 # 🎮 Pixel Ninja - Juego en Unity
 
 ## 🛠 Motor y Plataforma
