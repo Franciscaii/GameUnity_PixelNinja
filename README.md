@@ -66,8 +66,7 @@
 ## 🔗 Video Demostrativo
 📽️ Mira el funcionamiento del juego aquí: [YouTube](https://youtu.be/YvwT539Ra3Q?si=mZd2PWFgcGwZJL-5)
 
-## 📷 Vista Previa
-🖼️ Captura de pantalla del juego:  
+## 📷 Vista Previa 
 ![Vista previa](https://github.com/Franciscaii/GameUnity_PixelNinja/blob/main/Captura%20de%20pantalla%202025-01-18%20154633.png)
 
 
