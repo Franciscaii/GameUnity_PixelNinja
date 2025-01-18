@@ -1,4 +1,4 @@
-# 🎮 Pixel Ninja - Juego en Unity
+# 🎮 Pixel Ninja - Juego en Unity 2D
 
 ## 🛠 Motor y Plataforma
 - **Motor:** Unity **2022.3.43f1** 🚀 (Versión específica utilizada para el desarrollo).
